@@ -14,6 +14,7 @@
 
 #### 关键特性
 
+* LTE Cat.1
 * 8Mb SPI pSRAM，200MHz，支持SDR和DDR模式
 * XIP和QSPI模式支持的QuaDSPI NAND / NOR闪存控制器，可达120MHz
 
@@ -26,6 +27,11 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[ASR1601](https://github.com/SoCXin/ASR1601) 典型产品为移远EC600S系列模组
+[ASR1601](https://github.com/SoCXin/ASR1601) 为低成本的LTE Cat.1 方案，相对[ASR1802](https://github.com/SoCXin/ASR1802)具有成本优势。
+
+典型产品为移远EC600S系列模组（EC600N:ASR1603,EC600U:UIS8910DM）
+
+* [QuecPython](https://python.quectel.com/wiki/#/)
+
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

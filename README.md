@@ -2,8 +2,8 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-* [asrmicro](http://www.SoC.Xin)：[Cortex-R5](https://github.com/SoCXin/Cortex)
-* [L6R6](https://github.com/SoCXin/Level)：624 MHz
+* [ASR](http://www.asrmicro.com/)：[Cortex-R5](https://github.com/SoCXin/Cortex)
+* [L7R6](https://github.com/SoCXin/Level)：624 MHz
 
 ## [简介](https://github.com/SoCXin/ASR1601/wiki)
 
@@ -27,11 +27,12 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[ASR1601](https://github.com/SoCXin/ASR1601) 为Cat.1方案，相对Cat.4的[ASR1802](https://github.com/SoCXin/ASR1802)具有成本优势，类似产品[UIS8910DM](https://github.com/SoCXin/UIS8910DM)。
+[ASR1601](https://github.com/SoCXin/ASR1601) 为Cat.1方案，相对Cat.4的[ASR1802](https://github.com/SoCXin/ASR1802)具有成本优势，主要开源生态[QuecPython](https://python.quectel.com/wiki/#/)，类似产品[UIS8910DM](https://github.com/SoCXin/UIS8910DM)，后者基于Cortex-A5内核，主要的开源生态为[openluat](https://doc.openluat.com/wiki/3?wiki_page_id=606)。
 
-芯片的开发模组主要有移远EC600S系列（EC600N:ASR1603,EC600U:UIS8910DM）
+基于ASR1601/ASR1603芯片模组主要有移远EC600S系列（EC600N:ASR1603,EC600U:UIS8910DM）
 
-* [QuecPython](https://python.quectel.com/wiki/#/)
+[![sites](docs/diff.jpg)](https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4011-23773508522.57.6c534936fxm6ur&id=624756701780&rn=3606fbfcade6caf5e0b70767520f4954&abbucket=5)
+
 
 ### 相关工具
 

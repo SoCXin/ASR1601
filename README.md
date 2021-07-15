@@ -35,9 +35,14 @@
 
 ### 相关工具
 
-* ASR USB(WIN10): Quectel_ASR_Series_UMTS&LTE_Windows_USB_Driver_Customer_V1.0.8
-* aboot: ASR原厂工具,可用于EC600S系列模组
-* QPYcom 图形化工具  ----> 用于调试，下载脚本和固件
-* QMulti 批量下载工具 ----->用于批量下载
+* [ASR USB驱动(WIN10)](https://github.com/SoCXin/ASR1601/releases/download/1.0.0/Quectel_ASR_Series_UMTS.LTE_Windows_USB_Driver_Customer_V1.0.8.zip)
+* [Aboot下载工具(WIN10 x64)](https://github.com/SoCXin/ASR1601/releases/download/1.0.0/aboot-tools-2020.11.20-win-x64.exe)
+* [OpenCPU C SDK](https://github.com/SoCXin/ASR1601/releases/tag/1.0.0)
+
+
+### 相关开发板 (小白派)
+
+[![sites](docs/B.jpg)](https://item.taobao.com/item.htm?spm=a230r.1.14.47.3c6f204cPPe1iY&id=637604060135&ns=1&abbucket=7#detail)
+
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

@@ -1,0 +1,36 @@
+{
+    "type":"SoC",
+    "name":"ASR1601",
+    "title": "asrmicro ASR1601 SoC",
+    "description":"asrmicro Cortex-R5 Cat.1 SoC",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-R5",
+        "Fmax":624,
+        "DMIPS": 1250,
+        "CoreMark": 1680
+    },
+    "manufacturer": {
+        "vendor":"asrmicro",
+        "homepage":"http://www.asrmicro.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/ASR1601.git"
+    },
+    "version":"1.0.0",
+    "series":["ASR1601"],
+    "package":["QFN52"],
+    "peripheral": ["ADC","XIP","USB","USART","SPI","IIC"],
+    "temp": [-40,85],
+    "volt": [1.8,3.3],
+    "ESD": {
+        "HBM": 2000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-R5",
+        "asrmicro",
+        "DAC","ADC","I2C","LVD","SPI","LPUSART"
+    ]
+}
